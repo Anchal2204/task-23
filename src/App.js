@@ -1,5 +1,5 @@
 import Header from "./Components/Header";
-import {BrowserRouter,Route,Routes,Switch} from "react-router-dom"
+import {BrowserRouter,Route,Routes} from "react-router-dom"
 import Users from "./Components/users";
 import CreateUser from "./Components/createUser";
 import EditUser from "./Components/EditUser";
